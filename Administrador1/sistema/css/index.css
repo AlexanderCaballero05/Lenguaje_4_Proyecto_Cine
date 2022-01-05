@@ -1,0 +1,35 @@
+#barranav .col-md-2
+{
+    color:#fff;
+
+    //border-left-style:solid;
+    //border-left-width:1px;
+    //border-left-color:#000;
+    background-color:orange;
+    padding: 3px 0px;
+}
+#barranav .col-md-2:hover
+{
+    background-color:gray;
+    padding: 6px 0px;
+    font-size:large;
+    margin-top:-6px;
+}
+#barratitulo
+{
+    color:#fff;
+    background-color:gray;
+}
+#barratitulo h1
+{
+    margin:10px 0;
+}
+.contenido
+{
+    color:gray;
+    background-color:#EBEBEB;
+}
+.contenido h4
+{
+    margin:10px 0;
+}
